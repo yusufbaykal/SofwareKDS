@@ -12,6 +12,4 @@
 
   
 ## Ekran Görüntüleri
-
-<h1>Ekran Görüntüleri</h1>
 <img src="https://i.ibb.co/svXL8jh/login.png"/>
