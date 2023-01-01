@@ -14,4 +14,4 @@
 ## Ekran Görüntüleri
 
 <h1>Ekran Görüntüleri</h1>
-<img src="https://arabam-blog.mncdn.com/wp-content/uploads/2021/05/skoda-fabia-2021.jpg"/>
+<img src="https://i.ibb.co/svXL8jh/login.png"/>
